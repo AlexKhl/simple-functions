@@ -1,0 +1,10 @@
+{
+  "require": {
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Reaktion\\": "src"
+    }
+  }
+}
